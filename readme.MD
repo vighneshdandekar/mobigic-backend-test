@@ -6,4 +6,4 @@ npm install
 
 make sure you have mongodb installed on your local machine
 
-npm start
+DEBUG=mobigic-backend:* npm start 
